@@ -1,0 +1,25 @@
+{
+  "name": "tow",
+  "version": "1.0.0",
+  "description": "a lightweight smart contract game where two opposing sides increment or decrement a counter, tested via a multi-wallet automation script to verify state updates and event emission under load.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadonamite/TOW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jadonamite/TOW/issues"
+  },
+  "homepage": "https://github.com/jadonamite/TOW#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0"
+  }
+}
